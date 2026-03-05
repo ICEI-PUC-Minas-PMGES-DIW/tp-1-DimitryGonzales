@@ -3,13 +3,14 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
-- Matricula:
+- Nome: Dimitry Silva Gonzales Alves
+- Matricula: 911432
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Teste de inspeção de conexão](/images/teste-inspecao-conexao.png)
 
+![Resultado do index.html](/images/resultado-index-html.png)
 
 ## Orientações sobre Linguagem MarkDown
 
